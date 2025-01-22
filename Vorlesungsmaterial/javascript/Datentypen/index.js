@@ -8,13 +8,23 @@ function generatePhrase(firstName) {
 }
 
 let nameList = ["Daniel", "Max", "Lukas", "Lena", "Anna", "Lisa", "Julia", "Lara"];
-// for (let i = 0; i < nameList.length; i++) {
-//     console.log(generatePhrase(nameList[i]));
-// }
 
+// classic for loop with index
+for (let i = 0; i < nameList.length; i++) {
+    console.log(generatePhrase(nameList[i]));
+}
+
+// for loop with of to iterate over iterable elements like arrays, strings, maps, sets
 for (let name of nameList) {
     console.log(generatePhrase(name));
 }
+
+// forEach loop with arrow function
+nameList.forEach(name => console.log(generatePhrase(name)));
+
+nameList.forEach(function(name) {
+    console.log(generatePhrase(name));
+});
 
 console.log(2 == "2");
 console.log(2 === "2");
