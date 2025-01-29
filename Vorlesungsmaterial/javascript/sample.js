@@ -3,8 +3,6 @@ console.log("Hello World");
 
 buttonClick = () => {
   document.body.style.backgroundColor = "red";
-  // console.log(document.getElementById('firstP'))
-  // document.getElementById('firstP').textContent = "Hello World from JavaScript buttonClick()";
   
   // load and check if the paragraph exists
   let paragraph = document.getElementById("firstP");
