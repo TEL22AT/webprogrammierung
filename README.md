@@ -22,3 +22,8 @@
 - Studenten Vorteile:
   - [GitHub Student Developer Package](https://education.github.com/pack#offers) mit verschieden Vorteilen wir z.B. $50 MongoDB Atlas Guthaben
   - [Microsoft Azure für Studenten mit $100 Gutschrift](https://azure.microsoft.com/de-de/free/students/)
+ 
+## Vue.js
+
+- [Vue.js Beispielprojekt Code](https://github.com/TEL22AT/first-vue-project) aus der Vorlesung
+- [Vue.js framework website](https://vuejs.org/) mit [Beispielen und Erklärungen](https://vuejs.org/tutorial/#step-1) zu Vue.js
