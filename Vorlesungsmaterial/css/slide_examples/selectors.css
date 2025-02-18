@@ -1,0 +1,16 @@
+h1 { color: red; }                    /* alle h1 Elemente */
+.some-class { color: blue; }          /* alle Elemente mit der Klasse some-class */
+h1.some-class { color: blue; }        /* alle h1 Elemente mit der Klasse some-class */
+#some-id { color: green; }            /* das Element mit der ID some-id */
+h1#some-id { color: green; }          /* das h1 Element mit der ID some-id */
+* { color: purple; }                  /* alle Elemente */
+h1, p { color: orange; }              /* alle h1 und p Elemente */
+h1 i { color: yellow; }               /* alle i Elemente, die in einem h1 Element sind (rekursiv) */
+h1 * i { color: yellow; }             /* alle i Elemente, die in direkten Unterelementen eines h1 Elements sind */
+h1 > i { color: yellow; }             /* alle i Elemente, die direkte Unterelemente eines h1 Elements sind */
+h1 + p { color: yellow; }             /* alle p Elemente, die direkt nach einem h1 Element folgen */
+h1[align] { color: yellow; }          /* alle h1 Elemente mit einem align Attribut */
+h1[align=center] { color: yellow; }   /* alle h1 Elemente mit einem align Attribut und dem Wert center */
+h1[align|=center] { color: yellow; }  /* alle h1 Elemente mit einem align Attribut dessen Wert mit center beginnt... */
+h1[align~=center] { color: yellow; }  /* alle h1 Elemente mit einem align Attribut dessen Wert center enthält */
+h1, .some-class, h1 i { color: yellow; } /* die Ergebnisse aller Selektoren */

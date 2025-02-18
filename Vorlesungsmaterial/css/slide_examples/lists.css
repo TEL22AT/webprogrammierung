@@ -1,0 +1,4 @@
+ol { list-style-type: disc; } /* decimal, lower-roman, upper-roman, lower-alpha, upper-alpha */
+ul { list-style-type: square; } /* circle, disc, none */
+ol { list-style-position: inside; } /* outside (default) */
+ul { list-style-image: url("image.jpg"); }

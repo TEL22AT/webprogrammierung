@@ -1,0 +1,5 @@
+table { border-collapse: separate; } /* or collapse (default) */
+table { border-spacing: 5px; }
+table { empty-cells: show; } /* or hide (default) */
+table { caption-side: bottom; } /* or top (default) */
+table { table-layout: fixed; } /* or auto (default) */

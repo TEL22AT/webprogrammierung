@@ -1,0 +1,8 @@
+div { border-width: 10px 5px 10px 5px; } /* top, right, bottom, left */
+div { border-top-width: 10px; }
+div { border-color: blue red green brown; } /* top, right, bottom, left */
+div { border-top-color: blue; }
+div { border-style: solid dashed dotted double; } /* top, right, bottom, left */
+div { border-top-style: solid; }
+div { border: 10px solid blue; } /* width, style, color */
+div { border-top: 10px solid blue; }

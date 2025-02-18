@@ -1,0 +1,6 @@
+a:hover { color: red; }
+
+p::first-line {
+    color: #0000ff;
+    font-variant: small-caps;
+}

@@ -1,0 +1,6 @@
+div { width: auto; }
+div { min-width: 20px; }
+div { max-width: 100px; }
+div { height: auto; }
+div { min-height: 20px; }
+div { max-height: 100px; }

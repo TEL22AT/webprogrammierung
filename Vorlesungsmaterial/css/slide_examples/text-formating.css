@@ -1,0 +1,11 @@
+p { font-family:'Segoe UI', Tahoma, sans-serif; }
+p { font-style: italic; }
+p { font-variant: small-caps; }
+p { font-weight: bold; }
+p { font-size: 12pt; }
+p { color: blue; }
+p { font: italic small-caps bold 12pt/14pt 'Segoe UI', Tahoma, sans-serif; }
+p { word-spacing: 1px; }
+p { letter-spacing: 1px; }
+p { text-decoration: underline; }
+p { text-transform: uppercase; }

@@ -1,0 +1,14 @@
+div { text-indent: 5px; }
+div { text-align: justify; }
+div { white-space: nowrap; }
+div { line-height: 5px; }
+div { vertical-align: middle; }
+div { margin-top: 10px; }
+div { margin-top: inherit; } /* inherit from parent element */
+div { margin: 10px; } /* 10px top, right, bottom, left */
+div { margin: 10px 20px; } /* 10px top + bottom, 20px left+right */
+div { margin: 10px 20px 30px; } /* 10px top, 20px left+right, 30px bottom */
+div { margin: 10px 20px 30px 40px; } /* 10px top, 20px right, 30px bottom, 40px left */
+div { padding-top: 10px; }
+div { padding-top: inherit; } /* inherit from parent element */
+div { padding: 10px; } /* 10px top, right, bottom, left */

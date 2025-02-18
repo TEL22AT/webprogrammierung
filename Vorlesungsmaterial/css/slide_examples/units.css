@@ -1,0 +1,13 @@
+p { font-size: 10pt; } /* 10pt means 1/72 * 10 = 0,138 inches * 2,54 = 0,35cm */
+p { font-size: 10pc; } /* 10pc means 10 * 12 = 120pt */
+p { font-size: 1in; } /* 1in means 1 * 2,54 = 2,54cm */
+p { font-size: 1cm; }
+p { font-size: 1mm; }
+
+div { width: 10px; } /* 10px means 10 pixels */
+div { width: 2em; } /* 2em means 2 times of font size */
+div { width: 2ex; } /* 2ex means 2 times of x-height */
+div { width: 10%; } /* 10% means 10% of parent element */
+div { width: 10vw; } /* 10vw means 10% of viewport width */
+div { width: 10vh; } /* 10vh means 10% of viewport height */
+div { width: 2rem; } /* 2rem means 2 times of root element font size */

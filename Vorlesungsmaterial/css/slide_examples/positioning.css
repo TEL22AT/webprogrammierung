@@ -1,0 +1,10 @@
+div { top: 10px; }
+div { right: 10px; }
+div { bottom: 10px; }
+div { left: 10px; }
+
+div { position: static; } /* static (default), relative, absolute, fixed, sticky */
+div {
+    position: absolute;
+    z-index: 10;
+}

@@ -1,0 +1,6 @@
+div { background-color: red; }
+div { background-image: url("image.jpg"); }
+div { background-repeat: no-repeat; } /* repeat (default), repeat-x, repeat-y */
+div { background-attachment: fixed; } /* scroll (default), fixed */
+div { background-position: 10px 20px; } /* x, y (keywords: top, bottom, center, left, right) */
+div { background: red url("image.jpg") no-repeat fixed 10px 20px; }
