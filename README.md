@@ -30,7 +30,7 @@
 
 # Assignments
 
-Abgabedatum für alle Assignments: 04.07.2025\
+Abgabedatum für alle Assignments: 07.04.2025\
 Gewichtung gesamt: 50% Klausur | 50% Assignments\
 Gewichtung Assignments:
 - Assignment 1: 4 Punkte
