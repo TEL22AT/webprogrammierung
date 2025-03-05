@@ -76,3 +76,6 @@ Grundlage für die Implementierung der Authentifizierung: https://github.com/aut
 Domain: dev-4yituajghfjc8wca.us.auth0.com  
 Client-ID: t9wzEOtOAx3CyOLSQt8QU39cTrE2Gg1X
 
+## Probeklausur
+- [Klausur](https://github.com/TEL22AT/webprogrammierung/blob/main/Vorlesungsmaterial/Uebungsmaterial/ProbeKlausur.pdf)
+
