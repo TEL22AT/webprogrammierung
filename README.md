@@ -78,4 +78,5 @@ Client-ID: t9wzEOtOAx3CyOLSQt8QU39cTrE2Gg1X
 
 ## Probeklausur
 - [Klausur](https://github.com/TEL22AT/webprogrammierung/blob/main/Vorlesungsmaterial/Uebungsmaterial/ProbeKlausur.pdf)
+- [Lösung](https://github.com/TEL22AT/webprogrammierung/blob/main/Vorlesungsmaterial/Uebungsmaterial/ProbeklausurLoesung.pdf)
 
